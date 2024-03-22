@@ -1,4 +1,12 @@
 .gradle
 .idea
 .qodana
-build
+build/classes
+build/idea-sandbox
+build/instrumented
+build/kotlin
+build/patchedPluginXmlFiles
+build/reports
+build/resources
+build/robotServerPlugin
+build/tmp
